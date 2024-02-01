@@ -1,2 +1,1 @@
-# prepcours-henry-1
-este es un reporitorio de prueba 
+este es un piloto para clonar un repocitorio y clonarlo desde github a mi escritorio local 
